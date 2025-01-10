@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shivasharan
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning MERN stack development
+- 🌱 I’m currently working as React Developer
 - 📫 shivasharan2265@gmail.com
 
 
